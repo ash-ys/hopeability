@@ -1,0 +1,39 @@
+body {
+    /* background-color: #255296; */
+}
+#topheader{
+    background-color: #274A84;
+    padding: 10px 0;
+
+}
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.topheadersocialmedia{
+    text-align: right;
+}
+.topheadersocialmedia a {
+    margin-right: 10px;
+}
+#header{
+    background-color: #255296;
+}
+.header{
+    background-color: #fff;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#cards{
+    padding: 30px;
+}
+
+.nav-item{
+    margin-right: 30px;
+}
+
+.carousel-item{
+    transition: transform 1.6s ease-in-out;
+}
